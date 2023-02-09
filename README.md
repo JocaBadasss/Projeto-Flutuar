@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Habits" src=".github/preview.png" width="100%">
+  <img alt="Projeto Habits" src="images/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -39,4 +39,4 @@ The Flutuar is an app that helps you find a good destination to travel.
 ## 🔖 Layout
 
 
- You can view the project layout through [THIS LINK](<https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate. It is necessary to have a account on  [Figma](https://figma.com) To access.
+ You can view the project layout through [THIS LINK](<https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate>). It is necessary to have a account on  [Figma](https://figma.com) To access.
