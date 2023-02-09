@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Habits" src="images/preview.png" width="100%">
+  <img alt="Project Flutuar" src="images/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
