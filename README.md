@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Project
 
-The Flutuar is an app that helps you find a good destination to travel.
+The **Flutuar** is an app that helps you find a good destination to travel.
 
 
 - [Visit the project online](https://jocabadasss.github.io/Projeto-Flutuar/)
